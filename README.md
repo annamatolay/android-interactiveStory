@@ -8,7 +8,7 @@
 **NOTE:** *If you run this version on another device, maybe the appearance will be different.*
 
 ##Description
-The app leads you through a wonderful story, what Tells a story about an astronaut. Enjoy the space adventures!
+The app leads you through a wonderful story, what tells about an astronaut. Enjoy the space adventures!
 Will you able to find the way to your home, to the Earth? We will see ...
 
 ######What I learned now :tada:
